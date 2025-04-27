@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/p4prabhu/SQLgrind/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/p4prabhu/SQLgrind/tree/master/0013-roman-to-integer) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/p4prabhu/SQLgrind/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/p4prabhu/SQLgrind/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/p4prabhu/SQLgrind/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/p4prabhu/SQLgrind/tree/master/0013-roman-to-integer) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/p4prabhu/SQLgrind/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
