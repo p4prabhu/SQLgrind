@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/p4prabhu/SQLgrind/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/p4prabhu/SQLgrind/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/p4prabhu/SQLgrind/tree/master/1153-product-sales-analysis-i) |
 | [1415-students-and-examinations](https://github.com/p4prabhu/SQLgrind/tree/master/1415-students-and-examinations) |
