@@ -56,3 +56,15 @@ left join Examinations e on
 s.student_id=e.student_id and e.subject_name=su.subject_name
 group by s.student_id, su.subject_name
 order by s.student_id, su.subject_name
+
+
+
+
+
+
+
+
+
+
+
+
