@@ -21,7 +21,7 @@
 
 
 
-select e.unique_id, emp.name from Employees emp left join EmployeeUNI e  on emp.id=e.id 
+-- select e.unique_id, emp.name from Employees emp left join EmployeeUNI e  on emp.id=e.id 
 
 
 
@@ -31,6 +31,7 @@ select e.unique_id, emp.name from Employees emp left join EmployeeUNI e  on emp.
 
 
 
+select emp.unique_id, e.name from employees e left join EmployeeUNI emp on e.id=emp.id
 
 
 
