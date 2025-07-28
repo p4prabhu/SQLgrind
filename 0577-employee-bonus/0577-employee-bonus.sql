@@ -8,9 +8,19 @@
 
 
 
+-- select emp.name, b.bonus from Employee emp left join bonus b on emp.empId=b.empId
+-- where ifnull(b.bonus,0)<1000
+-- group by emp.empId
+
+
+
+
+
 select emp.name, b.bonus from Employee emp left join bonus b on emp.empId=b.empId
 where ifnull(b.bonus,0)<1000
-group by emp.empId
+
+
+
 
 
 
