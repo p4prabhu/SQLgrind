@@ -41,14 +41,22 @@
 
 
 
+-- select 
+-- activity_date as day,
+-- count(distinct user_id) as active_users
+-- from activity 
+-- group by activity_date
+-- having min(activity_date)>='2019-06-27' and max(activity_date)<='2019-07-27'
+
 select 
-activity_date as day,
-count(distinct user_id) as active_users
-from activity 
-group by activity_date
-having min(activity_date)>'2019-06-27' and max(activity_date)<='2019-07-27'
-
-
+    activity_date as day,                  -- Rename to 'day' to match output
+    count(distinct user_id) as active_users  -- Count unique users per day
+from 
+    activity
+where 
+    activity_date between '2019-06-28' and '2019-07-27'  -- Filter for last 30 days (inclusive)
+group by 
+    activity_date;   
 
 
 
